@@ -1,6 +1,6 @@
 # Week 1 Toy Problems - JavaScript Solutions
 
-This repository contains JavaScript solutions to the Week 1 Toy Problems assigned during the web development course. Each solution is written in a separate file, following the guidelines provided.
+This repository contains JavaScript solutions to the Week 1 Toy Problems. Each solution is written in a separate file, following the guidelines provided.
 
 ---
 
@@ -27,7 +27,7 @@ This repository contains JavaScript solutions to the Week 1 Toy Problems assigne
 
 ### 4. Bubble Sort
 
-- File: `bubble-sort.js`
+- File: `bubble-sort.jsc`
 - Description: Sorts an array using the Bubble Sort algorithm.
 
 ### 5. Staircase
